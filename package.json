@@ -1,0 +1,14 @@
+{
+  "name": "csv-json-extractor",
+  "description": "extracts properties from nested objects into new columns",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "dependencies": {
+    "commander": ">=2.2.0",
+    "csv-manipulator": "0.0.6",
+    "jsonpath": "^1.0.0"
+  }
+}
